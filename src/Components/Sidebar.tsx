@@ -24,7 +24,7 @@ export default function Sidebar() {
         )
     }
     return (
-        <div className='w-70 h-screen border border-grey-200'>
+        <div className='w-1/5 border border-grey-200'>
             <div className='p-2 flex flex-row-reverse'>
                 <Link href="/">
                     <Image
