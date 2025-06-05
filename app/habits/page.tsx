@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Habits() {
   return (
     <div className="bg-blue-50">
